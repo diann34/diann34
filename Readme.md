@@ -1,0 +1,3 @@
+- 🔭 I’m currently working on...well nothing.
+- 🌱 I’m currently learning Rust/Javascript
+- ⚡ Fun fact: The earth goes around the sun.
