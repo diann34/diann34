@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on...well nothing.
 - 🌱 I’m currently learning Rust/Javascript
-- ⚡ Fun fact: The earth goes around the sun.
+- ⚡ Fun fact: Although some people don't like durian, it is one of the most expensive fruits.
